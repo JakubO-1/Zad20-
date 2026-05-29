@@ -9,7 +9,7 @@
 <body>
 <header>
     <nav>
-        <div class="logo">Korepetytor EduPlus</div>
+        <div class="logo">Korepetytor Marek</div>
         <ul>
             <li><a href="index.php">Strona główna</a></li>
             <li><a href="rezerwacja.php">Rezerwacja</a></li>
