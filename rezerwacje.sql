@@ -1,3 +1,4 @@
+USE `rezerwacje`;
 CREATE TABLE IF NOT EXISTS `wizyty` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `imie_nazwisko` VARCHAR(100) NOT NULL,
