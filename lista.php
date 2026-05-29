@@ -68,7 +68,7 @@ $result = mysqli_query($conn, $sql_select);
                             <a href="lista.php?action=delete&id=<?php echo $row['id']; ?>" class="btn-delete" onclick="return confirm('Czy na pewno chcesz usunąć tę rezerwację?')">Usuń</a>
                         </td>
                     </tr>
-                <?php endofwhile; ?>
+                <?php endwhile; ?> 
             </tbody>
         </table>
     <?php else: ?>
